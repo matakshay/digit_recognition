@@ -1,4 +1,4 @@
-# digit_classification
+# digit_recognition
 Recognise and Classify handwritten digits from the MNIST Database using kNN Algorithm
 
 The MNIST Database contains 70,000 handwritten images of different digits. 60,000 of these images are input to the algorithm, along with their correct corresponding digit values. 
